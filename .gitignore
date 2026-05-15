@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Dataset (muy pesado para git)
+dataset/forward/*.jpg
+dataset/left/*.jpg
+dataset/right/*.jpg
+dataset/forward/*.png
+dataset/left/*.png
+dataset/right/*.png
+!dataset/**/.gitkeep
+
+# Modelos entrenados
+models/*.h5
+models/*.keras
+models/*.pth
+models/*.tflite
+!models/.gitkeep
+
+# IDEs y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
