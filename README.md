@@ -56,6 +56,10 @@ pip install -r requirements.txt
 
 ## Equipo
 - *José Carlos Mendizábal Huertas - 1077222*
+- *Walter Herrera - 1109722*
+- *Giancarlo Ortega - 1230222*
+- *Luis Samayoa - 1227421*
+- *Mario Lopez - 2477123*
 
 ## Estado
-🚧 En desarrollo — entrega martes 19 de mayo, 2026.
+🚧 En desarrollo 
